@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@tsed/common": "^5.60.2",
-    "@tsed/core": "^5.60.2",
+    "@tsed/core": "^5.65.7",
     "@tsed/di": "^5.60.2",
     "@tsed/platform-express": "^5.60.2",
     "@tsed/swagger": "^5.60.2",
